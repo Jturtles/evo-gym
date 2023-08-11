@@ -28,6 +28,9 @@ function App() {
 
   return (
     <>
+    <title>
+      Evo Gym
+    </title>
       <div className="app bg-gray-20">
         <Navbar
           isTopOfPage={isTopOfPage}
